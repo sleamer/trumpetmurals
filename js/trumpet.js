@@ -1,3 +1,4 @@
-$(document).ready(function(){
-		$('a').click().smoothScroll({offset: -100});
-});
+        $(document).ready(function(){
+          $('.muralCarousel').slick();
+        });
+
